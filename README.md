@@ -31,4 +31,4 @@ A lo que presentará el siguiente mensaje en consola
 net.ipv4.ip_forward = 1
 ```
 
-Construir nuevamente el Dockerfile y comenzara a descargar las dependencias maven.
+Construir nuevamente el Dockerfile y comenzará a descargar las dependencias maven.
